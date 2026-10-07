@@ -105,7 +105,7 @@ Wir freuen uns über Feedback, Verbesserungsvorschläge und Praxiserfahrungen, u
 
 === Click-Dummy
 
-https://www.figma.com/proto/PnMNeqXL0LeZ3PCjusuY3f/VZD-im-PVS?node-id=1011-8632&p=f&viewport=-2108%2C-612%2C0.1&t=Jnqa55IjrXhXcaRW-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1011%3A8632&page-id=0%3A1[Click-Dummy Live-Preview (Figma)]
+https://www.figma.com/proto/w8M2BRVQmNVn89DaxZgRdH/VZD-im-PVS-f%C3%BCr-ILF?node-id=1-6265&p=f&viewport=5284%2C530%2C0.35&t=YEDs6IlfZvvlgULD-9&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A6265&page-id=0%3A1[Click-Dummy Live-Preview (Figma)]
 
 image::click-dummy.png[Click-Dummy VZD-Suche im PVS,800]
 
