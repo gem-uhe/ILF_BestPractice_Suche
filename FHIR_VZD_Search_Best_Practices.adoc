@@ -118,7 +118,6 @@ image::click-dummy.png[Click-Dummy VZD-Suche im PVS,800]
 |Schnittstelle |Zweck |Typische Nutzer
 |`/search` |Suche nach Organisationen und Personen für TI-Anwendungen |TI-Messenger
 |`/fdv/search` |Suche für Frontends des Versicherten, inkl. optimierter Umkreis-Operationen |ePA-App, E-Rezept-App, PVS, AVS, KIS,
-|`/kim/search` |In Definition, geplant für VZD FHIR 1.2.0-19 |
 |`/owner` |Pflege eigener Einträge (Servicedaten) |AVS, Self-Service-Portal
 |===
 
